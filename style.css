@@ -1,0 +1,13 @@
+/* Estilos personalizados */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
